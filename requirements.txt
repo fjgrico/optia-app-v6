@@ -5,3 +5,4 @@ openai
 imageio
 numpy
 reportlab
+deepface
