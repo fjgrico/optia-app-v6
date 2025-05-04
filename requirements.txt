@@ -1,0 +1,7 @@
+streamlit
+Pillow
+mediapipe
+openai
+imageio
+numpy
+reportlab
